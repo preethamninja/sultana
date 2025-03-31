@@ -1,0 +1,150 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon1a94.eot?j1ctlg');
+  src:  url('fonts/icomoon1a94.eot?j1ctlg#iefix') format('embedded-opentype'),
+    url('fonts/icomoon1a94.ttf?j1ctlg') format('truetype'),
+    url('fonts/icomoon1a94.woff?j1ctlg') format('woff'),
+    url('fonts/icomoon1a94.svg?j1ctlg#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-arrow-right:before {
+  content: "\e90c";
+}
+.icon-right:before {
+  content: "\e90c";
+}
+.icon-next:before {
+  content: "\e90c";
+}
+.icon-left-chevron:before {
+  content: "\e90d";
+}
+.icon-search:before {
+  content: "\e90e";
+}
+.icon-shopping-bagww:before {
+  content: "\e90f";
+}
+.icon-next1:before {
+  content: "\e913";
+}
+.icon-fb:before {
+  content: "\e914";
+}
+.icon-arrow_up:before {
+  content: "\e916";
+}
+.icon-uniE919:before {
+  content: "\e919";
+}
+.icon-arrow_right:before {
+  content: "\e922";
+}
+.icon-arrow-right1:before {
+  content: "\e926";
+}
+.icon-arrow-up:before {
+  content: "\e927";
+}
+.icon-arrow-down1:before {
+  content: "\e928";
+}
+.icon-arrow_left:before {
+  content: "\e929";
+}
+.icon-trip:before {
+  content: "\e92a";
+}
+.icon-arrow-left:before {
+  content: "\e92b";
+}
+.icon-arrow_down:before {
+  content: "\e92d";
+}
+.icon-chevrons-right:before {
+  content: "\e92e";
+}
+.icon-chevrons-left:before {
+  content: "\e92f";
+}
+.icon-chevrons-down:before {
+  content: "\e930";
+}
+.icon-close:before {
+  content: "\e931";
+}
+.icon-star:before {
+  content: "\e932";
+}
+.icon-check:before {
+  content: "\e934";
+}
+.icon-mail-envelope-closed:before {
+  content: "\e937";
+}
+.icon-undo21:before {
+  content: "\e967";
+}
+.icon-play3:before {
+  content: "\ea1c";
+}
+.icon-instagram2:before {
+  content: "\ea92";
+}
+.icon-party:before {
+  content: "\e900";
+}
+.icon-right-arrow:before {
+  content: "\27f6";
+}
+.icon-right-arrow1:before {
+  content: "\e901";
+}
+.icon-ring:before {
+  content: "\e902";
+}
+.icon-sea-water:before {
+  content: "\e903";
+}
+.icon-shrimp:before {
+  content: "\e904";
+}
+.icon-water-waves:before {
+  content: "\e905";
+}
+.icon-wine:before {
+  content: "\e906";
+}
+.icon-chef-hat:before {
+  content: "\e907";
+}
+.icon-dining-room-cutlery-set-of-three-pieces-in-silhouettes:before {
+  content: "\e908";
+}
+.icon-gift-card:before {
+  content: "\e909";
+}
+.icon-hat:before {
+  content: "\e90a";
+}
+.icon-instagram:before {
+  content: "\e90b";
+}
