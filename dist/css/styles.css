@@ -3788,10 +3788,24 @@ a.mapboxgl-ctrl-logo {
   position: absolute;
   content: "";
   height: 100%;
-  width: 91%;
+  width: 100%;
   left: 11px;
   border-bottom: 1px dashed var(--Text-4);
   top: 3px;
+}
+
+.price-desc {
+  padding-bottom: 10px;
+} 
+.price-desc p {
+  font-size: 18px;
+  color: var(--Text-3);
+
+}
+
+.price-desc p span {
+  color: var(--Text-3);
+  font-weight: 700 !important;
 }
 .wg-menu .food-item .food p {
   color: var(--Text-3);
@@ -3808,10 +3822,16 @@ a.mapboxgl-ctrl-logo {
   font-family: "DM Sans";
   font-size: 15px;
   font-style: italic;
+  line-height: 1.4;
+  line
   color: var(--Text-2);
 }
 .wg-menu .food-item .sub a:hover {
   color: var(--Sub-color);
+}
+
+.wg-menu .food-item .sub p {
+  padding-top: 8px;
 }
 .wg-menu.pl-27 {
   padding-left: 27px;
@@ -4254,7 +4274,7 @@ a.mapboxgl-ctrl-logo {
   height: 100%;
 }
 .wg-food-offer:hover .content {
-  height: 58.7%;
+  height: 65.7%;
 }
 .wg-food-offer:hover .content .price {
   margin-top: 0px;
@@ -4358,6 +4378,11 @@ a.mapboxgl-ctrl-logo {
   letter-spacing: 1px;
   margin-bottom: 19px;
 }
+
+.wg-food-offer .content .sub p {
+  margin-top: 5px;
+}
+
 .wg-food-offer .content .sub a {
   color: var(--White);
   font-style: italic;
@@ -7936,4 +7961,10 @@ a.mapboxgl-ctrl-logo {
   }
 }
 
+
+
+.card-icon {
+  display: block;
+  margin-top:10px !important;
+}
 /*# sourceMappingURL=styles.css.map */
